@@ -1,0 +1,13 @@
+# Auto-generated config for YOLOv11 on transverse dataset
+
+output_dir: /home/agrilab/Documentos/Casanova/Arvores/Dataset/results
+data_base_dir: /home/agrilab/Documentos/Casanova/Arvores/Dataset/data
+model_dir: /home/agrilab/Documentos/Casanova/Arvores/Dataset/models
+
+training_defaults:
+  dataset_name: transverse
+  model_name: yolo11m-cls.pt
+  epochs: 100
+  batch_size: 16
+  learning_rate: 0.001
+  img_size: 224

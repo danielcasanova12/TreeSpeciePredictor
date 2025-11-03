@@ -1,0 +1,24 @@
+                    precision    recall  f1-score   support
+
+  Angelim-vermelho       1.00      1.00      1.00        48
+Castanha-de-Macaco       1.00      1.00      1.00        48
+       Catingueira       1.00      1.00      1.00        48
+             Cedro       1.00      1.00      1.00        48
+         Cerejeira       1.00      1.00      1.00        48
+           Cupiuba       1.00      1.00      1.00        48
+            Garapa       1.00      1.00      1.00        48
+            Imbuia       1.00      1.00      1.00        48
+         Jacareúba       1.00      1.00      1.00        48
+            Jatobá       1.00      1.00      1.00        48
+       Maçaranduba       1.00      1.00      1.00        48
+             Mogno       1.00      1.00      1.00        48
+      Muiracatiara       1.00      1.00      1.00        48
+            Pariri       1.00      1.00      1.00        48
+           Roxinho       1.00      0.98      0.99        48
+    Sucupira-preta       0.98      1.00      0.99        48
+            Tauari       1.00      1.00      1.00        48
+          Timbaúva       1.00      1.00      1.00        48
+
+          accuracy                           1.00       864
+         macro avg       1.00      1.00      1.00       864
+      weighted avg       1.00      1.00      1.00       864

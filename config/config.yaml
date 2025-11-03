@@ -1,0 +1,21 @@
+# Configuration for the wood classification project
+
+# Paths
+# Diretório principal para salvar TODAS as saídas (treinos, avaliações, etc.)
+output_dir: /home/agrilab/Documentos/Casanova/Arvores/Dataset/results
+
+# Diretório onde os datasets estão localizados
+data_base_dir: /home/agrilab/Documentos/Casanova/Arvores/Dataset/data
+
+# Diretório de modelos pré-treinados (se houver)
+model_dir: /home/agrilab/Documentos/Casanova/Arvores/Dataset/models
+
+# Configurações para um treino padrão (usado por `train.py`)
+training_defaults:
+  # Nome da pasta do dataset dentro de `data_base_dir`
+  dataset_name: tangential_transverse
+  model_name: yolov8m-cls.pt
+  epochs: 100
+  batch_size: 16
+  learning_rate: 0.001
+  img_size: 224
