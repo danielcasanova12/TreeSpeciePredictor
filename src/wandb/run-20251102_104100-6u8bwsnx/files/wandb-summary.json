@@ -1,0 +1,1 @@
+{"val/loss":0.032012939453125,"_wandb":{"runtime":637},"metrics/recall_macro":0.9953703703703702,"metrics/f1_macro":0.9953623188405797,"train/loss":0.00893327221274376,"_timestamp":1.7620914982937732e+09,"metrics/accuracy":0.9953703703703703,"_step":70,"epoch":70,"_runtime":637.550685821,"metrics/precision_macro":0.9957264957264957}

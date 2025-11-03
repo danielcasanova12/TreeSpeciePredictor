@@ -1,0 +1,4 @@
+python split.py --tipo ambos --train 0.7 --test 0.2 --val 0.1
+
+cd dados
+python split.py --tipo all --train 0.7 --test 0.2 --val 0.1

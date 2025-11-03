@@ -1,0 +1,13 @@
+{"time":"2025-11-02T11:39:14.878254911-03:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-11-02T11:39:15.200680486-03:00","level":"INFO","msg":"stream: created new stream","id":"mbdaqln1"}
+{"time":"2025-11-02T11:39:15.200719978-03:00","level":"INFO","msg":"stream: started","id":"mbdaqln1"}
+{"time":"2025-11-02T11:39:15.200732181-03:00","level":"INFO","msg":"sender: started","stream_id":"mbdaqln1"}
+{"time":"2025-11-02T11:39:15.200732231-03:00","level":"INFO","msg":"writer: Do: started","stream_id":"mbdaqln1"}
+{"time":"2025-11-02T11:39:15.200772505-03:00","level":"INFO","msg":"handler: started","stream_id":"mbdaqln1"}
+{"time":"2025-11-02T11:52:52.374317919-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.756623366,"progress":"63.0KB/63.0KB"}],"total_operations":1}}
+{"time":"2025-11-02T11:52:52.505694023-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-11-02T11:52:52.798784468-03:00","level":"INFO","msg":"stream: closing","id":"mbdaqln1"}
+{"time":"2025-11-02T11:52:52.798795668-03:00","level":"INFO","msg":"handler: closed","stream_id":"mbdaqln1"}
+{"time":"2025-11-02T11:52:52.798803442-03:00","level":"INFO","msg":"sender: closed","stream_id":"mbdaqln1"}
+{"time":"2025-11-02T11:52:52.798801228-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mbdaqln1"}
+{"time":"2025-11-02T11:52:52.798835201-03:00","level":"INFO","msg":"stream: closed","id":"mbdaqln1"}
